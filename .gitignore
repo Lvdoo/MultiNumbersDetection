@@ -1,0 +1,10 @@
+/__pycache__
+/.vscode
+/.venv
+/data
+/dataset
+/runs
+cnn_model.pth
+eval_iou.py
+preprocessed_image.png
+ssd_digits.pth
